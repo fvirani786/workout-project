@@ -1,0 +1,36 @@
+A full breakdown! 
+
+under Workout Tracker
+
+  -I created an id called workoutForm and inside of that a few input types. I've also added a placeholder 
+
+  -Next I made it requried to select a workout type for that day. Once you hit submit  it will show a list of the workouts. If (requried) is gone and the user clicks "Add Workout", a blank form will be shown. This will be added later on
+
+
+
+
+
+Features to add on: 
+
+-If user doesn't fill in the requried blanks, they will get an alert saying to fill out 
+or the box turns red 
+
+-Let's user create their own workout for that day
+
+
+
+
+
+
+
+
+
+
+Things to improve:
+
+
+
+
+
+
+
