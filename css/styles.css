@@ -41,3 +41,17 @@ button {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
 }
+
+.sort-controls {
+  margin: 20px 0;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.workout-item {
+  background: #f4f4f4;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
